@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraTechnology
 - 👀 I’m interested in learning _programming_
-- 🌱 I’m currently learning _HTML tags_
+- 🌱 I’m currently learning _HTML_ ; _CSS_
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

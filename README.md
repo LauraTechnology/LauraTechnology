@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LauraTechnology
-- 👀 I’m interested in learning _programming_
+- 👀 I’m interested in learning _to program_
 - 🌱 I’m currently learning to work with VSCode and GitHub; _HTML_ ; _CSS_ ; _JS_
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email laura.zukaite0912@gmail.com

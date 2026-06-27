@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @LauraTechnology
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning to CODE
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via email laura.zukaite0912@gmail.com
+- O=Studying ,,AI Accelerator'' on HelpBnk
 
 <!---
 LauraTechnology/LauraTechnology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
